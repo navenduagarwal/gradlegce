@@ -52,9 +52,4 @@ public class MainActivity extends AppCompatActivity {
         intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(intent);
     }
-
-    public void launchGCETask(View view) {
-        new EndpointsAsyncTask(this).execute();
-
-    }
 }
