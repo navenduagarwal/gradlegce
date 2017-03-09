@@ -1,17 +1,13 @@
 package com.sparshik.gradlegce;
 
 import android.content.Context;
-import android.content.Intent;
 import android.os.AsyncTask;
-import android.util.Log;
-import android.widget.Toast;
 
 import com.google.api.client.extensions.android.http.AndroidHttp;
 import com.google.api.client.extensions.android.json.AndroidJsonFactory;
 import com.google.api.client.googleapis.services.AbstractGoogleClientRequest;
 import com.google.api.client.googleapis.services.GoogleClientRequestInitializer;
 import com.sparshik.gradle.backend.myApi.MyApi;
-import com.sparshik.jokedisplay.JokeActivity;
 
 import java.io.IOException;
 
@@ -21,6 +17,7 @@ import java.io.IOException;
 
 class EndpointsAsyncTask extends AsyncTask<Void, Void, String> {
     private static MyApi myApiService = null;
+    public OnTaskCompleted listener = null;
     private Context context;
 
     public EndpointsAsyncTask(Context context) {
@@ -59,15 +56,8 @@ class EndpointsAsyncTask extends AsyncTask<Void, Void, String> {
 
     @Override
     protected void onPostExecute(String result) {
-        if (result != null) {
-            Log.d("Joke", result);
-            Intent intent = new Intent(context, JokeActivity.class);
-            intent.putExtra(JokeActivity.JOKE_KEY, result);
-            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-            context.startActivity(intent);
-        } else {
-            Toast.makeText(context, "Joke not available", Toast.LENGTH_LONG).show();
-        }
+        listener.onComplete(result);
     }
+
 }
 
