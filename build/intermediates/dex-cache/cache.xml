@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0c6992803f54cd2c0290596d9011f22000cbf8dd">
+        sha1="bb14957b617e95c687332544e6dd6f281a724e69">
         <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c9e8114a22c59cb290a8537218cb684a06c8a9c7\classes.dex" />
     </item>
 
