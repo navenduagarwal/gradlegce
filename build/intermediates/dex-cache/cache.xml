@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3892691fb3a8697de79b89221af26757f04442ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\navendu\.android\build-cache\592309bb2c7e2ec66e17487088eebc6b555f6037\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8c9b6e26aa19be22519842bf552d83cbab99d05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\navendu\.android\build-cache\82028a1b04fd8be8d521d82da009876025e6cb72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fd0a2209a353b256b97c1c6ebdb1e162a7695c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\navendu\.android\build-cache\d455fd9814b13a1768d8a62f08b77f4799f3ce94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d371b1ce8a92a81830fe15017f6dec3c2406b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8610591b0eff914bae777883f627825b6d451861">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c9e8114a22c59cb290a8537218cb684a06c8a9c7\classes.dex" />
+    </item>
+
+</items>
