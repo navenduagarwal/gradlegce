@@ -11,6 +11,60 @@
         <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3892691fb3a8697de79b89221af26757f04442ac\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\navendu\AndroidStudioProjects\GradleGCE\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a822fda1bfdc55d633514a354643b2fc7839a206">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\pre-dexed\debug\backend-android-endpoints_5582598a791595c2d206e3649c024db8f40a8cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\navendu\.android\build-cache\592309bb2c7e2ec66e17487088eebc6b555f6037\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\pre-dexed\debug\classes_a8c9b6e26aa19be22519842bf552d83cbab99d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\navendu\AndroidStudioProjects\GradleGCE\jokedisplay\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bf96492ea16726a12514d9135bd2dcd044c15ee">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\pre-dexed\debug\classes_1bce43fcb3bf61d7e0eb12b81c92a71f3ab1a866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\navendu\AndroidStudioProjects\GradleGCE\jokesource\build\libs\jokesource.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fa6d636415e1518ad3e518de21d775031930639">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\pre-dexed\debug\jokesource_6e650fa6ab883bf7abaf8e8b7e7e0939e599f0b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\navendu\.android\build-cache\d455fd9814b13a1768d8a62f08b77f4799f3ce94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\pre-dexed\debug\classes_9d371b1ce8a92a81830fe15017f6dec3c2406b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\navendu\.android\build-cache\82028a1b04fd8be8d521d82da009876025e6cb72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\pre-dexed\debug\classes_0fd0a2209a353b256b97c1c6ebdb1e162a7695c9.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\navendu\AndroidStudioProjects\GradleGCE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
